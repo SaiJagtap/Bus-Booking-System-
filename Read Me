@@ -1,0 +1,81 @@
+*****PROGRAMMING LANGUAGE USED*****
+ To develop this project I have used 
+Microsoft visual basic 6.0 . Visual basic is a hidh
+level programming language evolved from the 
+earlier DOS Version called BASIC.BASIC means 
+Beginner’s All-Purpose Symbolic Instruction Code. 
+It is a Fairly easy programming language to learn. 
+Different software companies produce different 
+version of BASIC, such as Microsoft QBASIC, 
+QUICKBASIC, OWBASIC, and so on.
+ VISUAL BASIC is a Visual and event 
+driven programming language. These are the main 
+difference from the old BASIC, programming is 
+done in a graphical environment. Therefore, a
+VISUAL BASIC programming is made up of many 
+subprograms, each has its own way of another.
+ Programs created with Visual basic can be 
+designed to run on windows, on the Web, within 
+office application , or on mobile devices. Visual 
+Studio, the most comprehensive VB development 
+16
+environment, or IDE , can be used to create 
+program for all these mediums. Visual Studio .NET 
+provides development tools to create programs 
+based on the .NET framework, such as ASP.NET 
+application , which are often deployed on the 
+Web. Finally, Visual Basic is available as a 
+streamlined application that is used primarily by 
+beginning developers and for educational 
+purposes
+
+
+*****Steps for Running the Project*****
+Step1: First open the project..
+Step2: You will see such type of form where you 
+can sign up and create account and then come 
+back and login with the same account first you 
+register with it.
+Step3: After log in a menu form will appear then 
+that you can book ticket or cancel ticket or contact 
+with customer care or known about bus services or 
+go back…
+Step4: If we want to book ticket then click the 
+book ticket button then the book ticket form will 
+appear then add all the details according to the 
+fields and then click submit and after submitting 
+the ticket booking information click on the print 
+button to get a hard copy of the ticket.
+Step5: If we want to cancel the already book ticket 
+then click the cancel ticket button in the menu 
+form and then the cancel ticket form will appear 
+then add all the details according to the fields and 
+then click submit.
+Step6: If any on needs a help then click on the 
+Cutomer Services button and then the Customer 
+Services form will open and then add all the details 
+properly . The Customer Services will contact you 
+as fast as possible.
+Step7: If any on needs detail information about the 
+bus services , bus types, facilities available, charges 
+and etc then click on the bus servies button and 
+then the bus services form will open and the user 
+will get th details information about everything 
+about the bus servies and charges..
+
+*****SYSTEM USED AND REQUIRE*****
+Operating System: Windows Xp
+Front end Tool: VB 6.0
+Back end Tool: MS Access 2002-03
+API: ADODC
+Documentation Tool: MS Office
+
+
+*****BIBLIOGRAPHY*****
+BOOKS:
+Visual Basic 6.0 the Complete Reference Book.
+Websites:
+• www.w3school.com
+• www.siksha.com
+• www.wikipedia.com
+• www.answer.com
